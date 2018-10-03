@@ -1,3 +1,4 @@
 Hola clase.
 
-Estoy modificando la branch Patch-1.
+Estoy modificando la branch Patch-2. (Actualizado)
+v0.2
